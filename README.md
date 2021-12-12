@@ -1,1 +1,2 @@
 # Diabetes_Prediction
+The objective of this project is to predict whether or not a participant is diabetic. The datasets used for this project is originally from the National Institute of Diabetes and Digestive and Kidney Diseases.  All participants of the dataset are females of Pima Indian heritage that are at least 21 years old. The attributes of this dataset are based on diagnostic measurements such as blood pressure and BMI. The dataset used in this project can be found at https://www.kaggle.com/uciml/pima-indians-diabetes-database.
